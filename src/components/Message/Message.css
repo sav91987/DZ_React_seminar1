@@ -1,0 +1,6 @@
+.message {
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    color: red;
+}
